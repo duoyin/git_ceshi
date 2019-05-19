@@ -9,3 +9,4 @@ echo 'hello word?!';
 var_dump('update');
 print_r('master or ming add content');
 echo 'dev agine';
+$lalal = 'haha';
