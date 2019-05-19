@@ -18,4 +18,4 @@ echo 'user1 and user 2';
 
 echo 'push dev';
 
-echo 'user2 update';
+echo 'user1 update';
