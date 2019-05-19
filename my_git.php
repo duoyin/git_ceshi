@@ -7,4 +7,4 @@
  */
 echo 'hello word?!';
 var_dump('update');
-print_r('master add content');
+print_r('master or ming add content');
