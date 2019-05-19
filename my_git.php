@@ -14,4 +14,4 @@ echo 'update bug-001';
 
 $lalal = 'haha';
 
-echo 'user1';
+echo 'user1 and user 2';
